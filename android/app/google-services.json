@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "770351379165",
+    "project_id": "clima-app-ad266",
+    "storage_bucket": "clima-app-ad266.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770351379165:android:8e828723c8b01b67c9e134",
+        "android_client_info": {
+          "package_name": "com.clima.climaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1cCN7qBNGRAeJSMpwY5dLgEexkCKgH1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
